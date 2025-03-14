@@ -1,0 +1,5 @@
+{
+  "title": ".pokemon__title",
+  "logout_button": ".top_menu_exit",
+  "trainer_btn": ".header__container > .header__id"
+}

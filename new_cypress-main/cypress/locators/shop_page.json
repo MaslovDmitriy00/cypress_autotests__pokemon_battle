@@ -1,0 +1,5 @@
+{
+  "title": ".pokemon__title",
+  "avatar_card": ".shop__list > :nth-child({index})",
+  "buy_avatar_btn": ":nth-child({index}) > .shop__button"
+}

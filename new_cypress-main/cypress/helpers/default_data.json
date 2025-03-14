@@ -1,0 +1,11 @@
+{
+	"login":"USER_LOGIN",
+	"password":"USER_PASSWORD",
+
+	"data_card_number":"4620869113632996",
+	"data_card_cvv":"125",
+	"data_card_period":"1225",
+	"data_card_name":"NAME",
+
+	"data_confirm_sms":"56456"
+}

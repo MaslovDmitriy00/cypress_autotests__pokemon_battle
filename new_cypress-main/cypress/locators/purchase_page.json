@@ -1,0 +1,13 @@
+{
+    "card_number": ".pay__payform-v2 > :nth-child(2) > .pay_base-input-v2",
+    "card_period": ":nth-child(1) > .pay_base-input-v2",
+    "card_cvv": ".pay-inputs-box > :nth-child(2) > .pay_base-input-v2",
+    "card_name": ".pay__input-box-last-of > .pay_base-input-v2",
+    "purchase_btn": ".pay-btn",
+
+    "confirm_sms": "#cardnumber",
+    "confirm_btn": ".payment__submit-button",
+
+    "success_text": ".payment__font-for-success",
+    "success_cost": ".payment__info-text-new"
+}

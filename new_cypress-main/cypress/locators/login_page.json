@@ -1,0 +1,7 @@
+{
+    "title": ".auth__title",
+    "email": ":nth-child(1) > .auth__input",
+    "password": "#password",
+    "login_button": ".auth__button",
+    "forgot_pass_btn": ".auth__restore"
+  }
